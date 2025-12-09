@@ -35,7 +35,7 @@ SQL Server | Database Design | Query Optimization
 ```
 ### 🎯 Featured Projects
 
-#### 🏠 [Airbnb Clone - Full Stack Web Application](https://github.com/NourhanAmr119)
+#### 🏠 [Airbnb - Full Stack Web Application](https://github.com/NourhanAmr119)
 ITI Graduation Project featuring property listings, advanced search & filtering, booking system, user authentication, host functionality, payment integration, Google Maps, chatbot, and localization.
 - **Tech:** ASP.NET MVC (N-Tier Architecture), Web API, SQL Server, Angular, TypeScript, Bootstrap
 
@@ -65,10 +65,6 @@ Windows Forms application with database integration for organizing tasks, tracki
 **Front-End Developer Trainee** @ IT-Share (February 2023 – March 2023)
 - Front-end development with modern web technologies
 - Responsive and dynamic web application development
-
-### 📊 GitHub Stats
-
-![Nourhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NourhanAmr119&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect
 
